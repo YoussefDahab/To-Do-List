@@ -1,4 +1,3 @@
-// type rfc then hit tab
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -22,5 +21,3 @@ const linkStyle = {
     color: '#fff',
     textDecoration: 'none'
 }
-//export default Header; - no need for this because we have it at the top
-//Header is a functional component because it has no state, just markup
