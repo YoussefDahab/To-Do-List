@@ -1,4 +1,4 @@
 # To-Do-List
-npx create-react-app .
-npm start server
-npm run build
+npx create-react-app .  
+npm start server  
+npm run build  
