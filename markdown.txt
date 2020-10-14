@@ -1,0 +1,62 @@
+BOLD & ITALICS
+
+**bold**
+_italic_
+**_bold & italic_**
+
+
+HEADERS
+
+#Header 1
+##Header 2
+###Header 3
+####Header 4
+#####Header 5
+######Header 6
+
+
+INLINE LINKS
+
+[Visit Github](www.github.com)
+
+
+REFERENCE LINKS - are references to other places in a document
+advantage: multiple links to the same place only need to be updated once
+
+Do you want to [see something fun][fun place]?
+Well, do I have [the website for you][another fun place]!
+[fun place]: www.youtube.com
+[another fun place]: www.google.com
+
+
+INLINE IMAGE LINK
+
+![Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+
+REFERENCE IMAGE
+
+This is a [black cat][Black]
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+
+BLOCKQUOTES - sentence or paragraph formatted to draw a reader's attention
+
+>some text
+
+
+UNORDERED LIST - BULLET POINT LIST
+
+* Milk
+* Cheese
+* Tomatoes
+
+ORDERED LIST - NUMBERED LIST
+
+1. Milk
+2. Cheese
+3. Tomatoes
+
+PARAGRAPHS
+
+hit the space bar 2 times to push the text down to the next line
